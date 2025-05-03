@@ -2,7 +2,6 @@
 
 
 ## ✨ Getting to know me! ✨ 
-
  🔭 I’m currently working as a full-stack developer
  
  🌱 I’m currently learning more about Dart, Artificial Intelligence and Machine Learning
@@ -13,7 +12,6 @@
 
 
 ## ⚒️ **Languages and Tools:**
-
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
