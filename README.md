@@ -4,8 +4,11 @@
 ## ✨ Getting to know mw! ✨ 
 
  🔭 I’m currently working as a full-stack developer
+ 
  🌱 I’m currently learning more about Dart, Artificial Intelligence and Machine Learning
- 📫 How to reach me:  [Email Me](mailto:tarirofmunzwa@gmail.com)
+ 
+ 📫 How to reach me:  [tarirofmunzwa@gmail.com](mailto:tarirofmunzwa@gmail.com)
+ 
  ⚡ Fun fact: I am a Computer Science graduate based in Zimbabwe
 
 
