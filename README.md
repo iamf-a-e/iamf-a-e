@@ -1,4 +1,4 @@
-## Hi there 👋, I am Tariro Faith Munzwa
+# Hi there 👋, I am Tariro Faith Munzwa
 
 <!--
 ## ✨ Getting to know mw! ✨ 
