@@ -1,6 +1,6 @@
 # Hi there 👋, I am Tariro Faith Munzwa
 
-<!--
+
 ## ✨ Getting to know mw! ✨ 
 
  🔭 I’m currently working as a full-stack developer
@@ -8,7 +8,7 @@
  📫 How to reach me:  [Email Me](mailto:tarirofmunzwa@gmail.com)
  ⚡ Fun fact: I am a Computer Science graduate based in Zimbabwe
 
-<!--
+
 ## ⚒️ **Languages and Tools:**
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
