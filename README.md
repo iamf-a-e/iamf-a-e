@@ -3,7 +3,7 @@
  
 ## ✨ Getting to know me! ✨  
  🔭 I’m currently working as a full-stack developer. 
-  
+   
  🌱 I’m currently learning more about Dart, Artificial Intelligence and Machine Learning.
  
  📫 How to reach me:  [tarirofmunzwa@gmail.com](mailto:tarirofmunzwa@gmail.com)
