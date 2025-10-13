@@ -6,7 +6,7 @@
    
  🌱 I’m currently learning more about Dart, Artificial Intelligence and Machine Learning. 
  
- 📫 How to reach me:  linkedin.com/in/tariro-munzwa-b57437186 
+ 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tariro-munzwa-b57437186)
  
  ⚡ Fun fact: I am a Computer Science graduate based in Zimbabwe.
 
