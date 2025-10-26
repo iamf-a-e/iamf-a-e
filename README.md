@@ -1,7 +1,7 @@
 # Hi there 👋, I am Tariro Faith Munzwa  
  
 
-## ✨ Getting to know me! ✨         
+## ✨ Getting to know me! ✨          
  🔭 I’m currently working as a full-stack developer.   
    
  🌱 I’m currently learning more about Dart, Artificial Intelligence and Machine Learning. 
