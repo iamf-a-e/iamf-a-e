@@ -31,5 +31,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-DD0031?style=flat&logo=firebase&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-DD0031?style=flat&logo=firebase&logoColor=white)
 ![ML](https://img.shields.io/badge/ML-DD0031?style=flat&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-007396?style=flat-square&logo=java&logoColor=white)
 
 
