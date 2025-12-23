@@ -29,5 +29,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD0031?style=flat&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/AI-DD0031?style=flat&logo=firebase&logoColor=white)
 
 
