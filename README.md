@@ -35,5 +35,6 @@
 ![Gemini](https://img.shields.io/badge/-Gemini-007396?style=flat-square&logo=java&logoColor=white)
 ![Twilio](https://img.shields.io/badge/-Twilio-007396?style=flat-square&logo=java&logoColor=white)
 ![Meta](https://img.shields.io/badge/-Meta-007396?style=flat-square&logo=java&logoColor=white)
+![VertexAI](https://img.shields.io/badge/-VertexAI-007396?style=flat-square&logo=java&logoColor=white)
 
 
